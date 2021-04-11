@@ -11,3 +11,11 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+
+#sidebar{
+  background-color: rgba(101, 105, 100, 0.582);
+}
+
+#content{
+  background-color: rgba(229, 236, 228, 0.753);
+}
